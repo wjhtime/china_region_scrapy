@@ -7,8 +7,6 @@
 数据整理之后放到了[地区数据库](https://github.com/wjhtime/china_regions) 这个项目里面，可以直接拿来使用
 
 
-
-
 ## Quick Start
 
 ```
