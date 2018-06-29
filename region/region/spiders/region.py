@@ -9,7 +9,7 @@ class regionSpider(scrapy.Spider):
     # allowed_domains = ['www.stats.gov.cn']
 
     start_urls = [
-        "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/"
+        "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/"
     ]
 
     def parse(self, response):

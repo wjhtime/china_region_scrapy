@@ -95,3 +95,7 @@ MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'root'
 MYSQL_DATABASE = 'python'
+
+# 日志
+LOG_LEVEL = 'INFO'
+LOG_FILE = './log.log'
